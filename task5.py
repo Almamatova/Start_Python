@@ -35,3 +35,28 @@
 # a[2] = 'апельсин'
 # print(a)
 
+# speed = 4096 / 1024
+# time = 120 * 60
+# coast = 0.125
+# free = 500
+# file = speed * time
+# money = (file-free)*coast
+# print(file)
+# print(money)
+
+# money = 10000
+# add = 5000
+# money +=add
+# print(money)
+
+# users =['user1', 'user2', 'user3', 'user1', 'user4', 'user2']
+# dict_ ={"Общее количество": 0, "Уникальные посещения": 0}
+# a = len(users)
+# c = set(users)
+# print(c)
+# dict_1 ={"Общее количество": a, "Уникальные посещения": len(c) }
+# print(dict_1)
+9
+group_124 = ['Дарья', 'Софья','Фатима', 'Елизавета', 'Алина','Эвелина', 'Элеанора', 'Маргарита', 'Полина', 'Юрий', 'Илья ', 'Екатерина' ]
+print(group_124 [ : 6])
+print(group_124 [6 : ])
